@@ -1,0 +1,267 @@
+
+--- الصفحة 1 ---
+دليل كتابة الرسائل العلمية - جامعة الطائف عمادة الدراسات العليا
+
+يحتوي هذا الدليل على المعلومات الأساسية لكتابة الرسائل العلمية بشكل موجز ومختصر. لا يحتوي الدليل على تفاصيل قد تعتمد على التخصص العلمي ويكون ذلك تبعاً لتوجيهات الأقسام المختصة بهذا الشأن.
+
+ترتيب أجزاء الرسالة (مقارنة بين الرسائل العربية والإنجليزية):
+
+أولاً: الرسائل العربية
+
+صفحة الغلاف باللغة العربية.
+
+صفحة الموافقة.
+
+صفحة مستخلص الرسالة باللغة العربية.
+
+صفحة مستخلص الرسالة باللغة الإنجليزية (Abstract).
+
+صفحة الشكر أو الإهداء.
+
+جدول المحتويات.
+
+قوائم الجداول.
+
+صفحة قوائم الأشكال التوضيحية.
+
+الفصل الأول: المقدمة.
+
+الفصل الثاني: الدراسات السابقة.
+
+الفصل الثالث: منهجية البحث.
+
+الفصل الرابع: النتائج.
+
+الفصل الخامس: المناقشة.
+
+الفصل السادس: الخاتمة.
+
+المراجع.
+
+صفحة الغلاف باللغة الإنجليزية.
+
+ثانياً: الرسائل الإنجليزية (English Thesis - Thesis Parts & Chapters)
+
+Cover Sheet (صفحة الغلاف).
+
+Approval Sheet (صفحة الموافقة).
+
+Acknowledgement (صفحة الشكر).
+
+Table of Contents (جدول المحتويات).
+
+List of Tables (قوائم الجداول).
+
+List of Figures (صفحة قوائم الأشكال التوضيحية).
+
+Introduction (الفصل الأول: المقدمة).
+
+صفحة مستخلص الرسالة (Abstract).
+
+Literature Reviews (الفصل الثاني: الدراسات السابقة).
+
+Methodology (الفصل الثالث: منهجية البحث).
+
+Results (الفصل الرابع: النتائج).
+
+Discussion (الفصل الخامس: المناقشة).
+
+Conclusion (الفصل السادس: الخاتمة).
+
+Bibliography (المراجع).
+
+ملاحظات إضافية حول الأجزاء:
+
+قد تتضمن الرسالة بعض الأجزاء الإضافية مثل: فصل الخاتمة والتوصيات (Conclusions and Recommendations) والملاحق (Appendixes) وصفحة الكشاف (الفهرس) (Index).
+
+قد تدمج النتائج مع المناقشة وتسمى النتائج والمناقشة (Results and Discussion) على حسب طبيعة البحث وطريقة الباحث في عرض بياناته والتخصص الذي يدرسه الطالب.
+
+المراجع (References/Bibliography): تتبع عمادة الدراسات العليا بجامعة الطائف منهج كتابة المراجع العالمي APA (American Psychological Association) من جامعة هارفارد. ويراعى ترتيب المراجع أبجدياً وفقاً لاسم المؤلف سواء المراجع العربية أو الأجنبية، مع فارق أن الاسم العربي يكتب كاملاً بدءاً بالاسم الأول ثم الأوسط ثم اللقب، أما الاسم الإنجليزي فيكتب بالاسم الأخير ثم الحروف الابتدائية للاسم الأول والأوسط إن وجد.
+
+يفضل استخدام برامج إدارة المراجع الشهيرة مثل EndNote لإدراج المراجع بشكل آلي وسليم.
+
+أمثلة سريعة وردت في الجدول:
+
+عربية: عادل بن سليمان الكومي (2009). دليل كتابة الرسائل العلمية بجامعة الملك عبد العزيز، جدة.
+
+إنجليزية: Finney, J. (1970). Time and again. New York, NY: Simon and Schuster.
+
+التنسيقات الشكلية (Formatting):
+
+للغة العربية:
+
+مقاس الخط: 14.
+
+مقاس العناوين: 18.
+
+نوع الخط: Simplified Arabic.
+
+تباعد الأسطر: 1.5.
+
+هوامش النص: مضبوطة.
+
+الهوامش: يمين ويسار 2.54 سم، أعلى وأسفل 3.18 سم.
+
+للغة الإنجليزية (English Formatting):
+
+Titles Font Size: 16.
+
+Font Size: 12.
+
+Font Type: Times New Roman.
+
+Line Spacing: 1.5.
+
+Text Margins: Justified.
+
+Margins: Normal Left, Right: 2.54cm, Top, Bottom: 3.18cm.
+
+--- الصفحة 2 ---
+[نموذج: صفحة الغلاف باللغة العربية]
+
+المملكة العربية السعودية (بنط 14، مسافة مفرد) وزارة التعليم جامعة الطائف كلية العلوم قسم الأحياء
+
+(شعار جامعة الطائف)
+
+دراسات جزيئية علي بعض الفيروسات التي تصيب بعض النباتات ذات الأهمية الاقتصادية بمحافظة الطائف بالمملكة العربية السعودية (بنط 20)
+
+رسالة مقدمه من (بنط 16) محمد أحمد محمد (بنط 18)
+
+رسالة مقدمة لاستكمال متطلبات درجة الماجستير في (التخصص العام) (التخصص الدقيق) (بنط 16)
+
+إشراف
+
+أ.د. عاطف شكري صادق أستاذ الفيروسات - قسم الأحياء - كلية العلوم - جامعة الطائف
+
+د. جابر أحمد محمود مرسال أستاذ الكيمياء التحليلية المشارك - قسم الكيمياء - كلية العلوم - جامعة الطائف
+
+1432 هـ (2011) (بنط 16)
+
+--- الصفحة 3 ---
+[نموذج: صفحة الغلاف باللغة الإنجليزية]
+
+Kingdom of Saudi Arabia Ministry of Education Taif University College of Science Department of Biology (Font Size: 14)
+
+(Taif University Logo)
+
+Molecular studies on some viruses infecting some economic plants in Taif Governorate at Kingdom of Saudi Arabia (Font Size: 20)
+
+By (Font Size: 16) Mohamed Ahmed Mohamed (Font Size: 18)
+
+A thesis submitted in partial fulfillment of the requirements for the Master Degree (Font Size: 16) of Microbiology (Major) (Font Size: 16) (Viruses) (Minor)
+
+Supervised By (Font Size: 16)
+
+Prof. Dr. Atef S. Sadik Prof. of Viruses, Department of Biology, Faculty of Science - Taif University
+
+Dr. Gaber A.M. Mersal Associate Prof. of Analytical Chemistry, Faculty of Science, Taif University
+
+1432 (2011) (Font Size: 16)
+
+--- الصفحة 4 ---
+[نموذج: صفحة الموافقة باللغة العربية]
+
+المملكة العربية السعودية (بنط 14، مسافة مفرد) وزارة التعليم جامعة الطائف كلية العلوم قسم الأحياء
+
+(شعار جامعة الطائف)
+
+صفحة الموافقة
+
+دراسات جزيئية علي بعض الفيروسات التي تصيب بعض النباتات ذات الأهمية الاقتصادية بمحافظة الطائف بالمملكة العربية السعودية (بنط 20)
+
+رسالة مقدمه من محمد أحمد محمد
+
+لجنة الحكم على الرسالة:
+
+الأستاذ الدكتور / نبيه بن عبد الرحمن باعشن (عضواً خارجياً) أستاذ الوراثة الجزيئية - كلية العلوم - جامعة الملك عبد العزيز - جده
+
+الأستاذ الدكتور / عبد الله بن دخيل الطلحي (عضواً داخلياً) أستاذ الميكروبيولوجي - قسم الأحياء - كلية العلوم - جامعة الطائف
+
+الأستاذ الدكتور / عاطف شكري صادق (مشرفاً ومقرراً) أستاذ الفيروسات - قسم الأحياء - كلية العلوم - جامعة الطائف
+
+د. جابر احمد محمود مرسال (مشرفاً مشاركاً) أستاذ الكيمياء التحليلية المشارك - قسم الكيمياء - كلية العلوم - جامعة الطائف
+
+تاريخ المناقشة: / / 14 هـ.
+
+--- الصفحة 5 ---
+[نموذج: صفحة الموافقة باللغة الإنجليزية]
+
+Kingdom of Saudi Arabia Ministry of Education Taif University College of Science Department of Biology (Font Size: 14)
+
+(Taif University Logo)
+
+Approval Sheet
+
+Molecular studies on some viruses infecting some economic plants in Taif Governorate at Kingdom of Saudi Arabia
+
+By Mohamed Ahmed Mohamed
+
+COMMITTEE:
+
+Dr. Nabih A. Baeshen (External Member) Prof. of Molecular Genetics, Faculty of Science, King Abdul-Aziz University
+
+Dr. Abdullah D. Altalhi (Internal Member) Prof. of Microbiology, Faculty of Science, Taif University
+
+Dr. Atef S. Sadik (Member and Supervisor) Prof. of Viruses, Faculty of Science, Taif University
+
+Dr. Gaber A.M. Mersal (Associate Member) Associate Prof. of Analytical Chemistry, Faculty of Science, Taif University
+
+Date of Discussion: / / 14
+
+
+--- الصفحة 6 ---
+[نموذج: صفحة الخلاصة باللغة الإنجليزية]
+Abstract (Font Size: 16) 
+Here you will write your abstract (not more than one page, limited to a maximum of 400 words) 
+(Font Size: 12) 
+________________________________________
+--- الصفحة 7 ---
+[نموذج: صفحة الخلاصة باللغة العربية]
+الخلاصة (مقاس الخط: 18) 
+هنا تكتب الخلاصة باللغة العربية وتكون الحواشي مضبوطة ولا تتجاوز الخلاصة صفحة واحدة بما لا يزيد عن 450 كلمة. 
+مقاس الخط (14) 
+________________________________________
+--- الصفحة 8 ---
+قواعد كتابة المراجع للرسائل العلمية بجامعة الطائف 
+تتبع عمادة الدراسات العليا بجامعة الطائف منهج كتابة المراجع العالمي APA (American Psychological Association) من جامعة هارفارد. ويراعى ترتيب المراجع أبجدياً وفقاً لاسم المؤلف سواء المراجع العربية أو الأجنبية، مع فارق أن الاسم العربي يكتب كاملاً بدءاً بالاسم الأول ثم الأوسط ثم اللقب، أما الاسم الإنجليزي فيكتب بالاسم الأخير ثم الحروف الابتدائية للاسم الأول والأوسط إن وجد. 
+أجزاء العزو (الاستشهاد العلمي): لكي يكون العزو العلمي صحيحاً ومكتملاً فيجب أن يشتمل على جزئيين: 
+1.	يتم العزو بالإشارة إلى ذلك عند النص المنقول (In-text citation)، وتكون الإشارة إلى المرجع بحسب طريقة كتابة المراجع المتبعة في البحث، بأن يذكر اسم المؤلف / المؤلفين وعام النشر، إذا كانت الطريقة المتبعة بنظام جامعة هارفارد (APA) وغيرها من الطرق المعتمدة حسب النظام المعتمد في المؤسسة التعليمية التي يتبع لها الباحث / طالب الدراسات العليا. 
+o	كما يتم الإشارة إلى رقم الصفحة المقتبس منها إذا كان الاقتباس مباشراً. 
+2.	يتم كتابة المرجع مكتملاً في قائمة المراجع (References/Bibliography) بذكر اسم المؤلف أو أسماء المؤلفين، والعام، واسم المرجع، وتاريخ نشره ودار النشر وغيرها، حيث تختلف المعلومات باختلاف نوع المرجع هل هو كتاب أو ورقة بحثية منشورة في مجلة علمية، أو ورقة مؤتمر، أو موقع إلكتروني. 
+•	وينصح باستخدام برامج إدارة المراجع والتوثيق الآلي مثل برنامج EndNote وغيرها. 
+•	ويجب على طالب الدراسات العليا الرجوع إلى عينة من الرسائل العلمية الجيدة في التخصص العلمي الذي يتبع له. 
+أدوات مقترحة:
+•	ENDNOTE (THOMSON REUTERS) 
+•	MENDELEY 
+•	ProQuest RefWorks 
+________________________________________
+--- الصفحة 9 ---
+قواعد كتابة المراجع للرسائل العلمية بجامعة الطائف 
+In-Text Citation APA (American Psychological Association) 
+Basics Use the past tense or present perfect tense when using signal phrases to describe earlier research, e.g., "Jones (1998) found" or "Jones (1998) has found." Follow the author-date method of in-text citation: (Jones, 1998). 
+Place direct quotations longer than 40 words in a free-standing block of typewritten lines and omit quotation marks. Start the quotation on a new line, indented five spaces from the left margin. Type the entire block quotation on the new margin and indent the first line of any subsequent paragraph within the quotation five spaces from the new margin. Place the parenthetical citation after the closing punctuation mark. 
+A Work with One or Two Authors Name the author(s) in the signal phrase or in the parentheses. Spell out "and" in signal phrases but use the ampersand in parentheses. 
+•	Example: Wegener and Petty (1994) found that... (Wegener & Petty, 1994). 
+A Work by Three to Five Authors List all the authors in the signal phrase or in parentheses the first time you cite the source. 
+•	Example: (Kernis, Cornell, Sun, Berry, & Harlow, 1993) 
+•	In subsequent citations, only use the first author's last name and "et al." 
+A Work by Six or More Authors Use the first author's name then "et al." in signal phrases or in parentheses. 
+•	Example: Harris et al. (2001) argued... (Harris et al., 2001) 
+Unknown Author If the work does not have an author, cite the source by its title in the signal phrase or use the first word or two in the parentheses. Italicize titles of books and reports; titles of articles and chapters go in quotation marks. 
+•	Example: A similar study was conducted with students learning to format research papers ("Using APA," 2001). 
+Organization as Author For organization or government agency authors, mention organizations in the signal phrase or the parenthetical citation the first time you cite it. 
+•	Example: According to the American Psychological Association (2000),... 
+Two or More Works in the Same Parentheses When your parenthetical citation includes two or more works, order them the same way they appear in the reference list, separated by a semi-colon. 
+•	Example: (Berndt, 2002; Harlow, 1983) 
+Internet Sources If possible, cite an electronic document the same as any other document. 
+•	Example: In his online journal article, Kenneth (2000) explained... 
+References 
+Basics References lists appear at the end of papers on a separate page. Center and type the word "References" at the top of your list. All lines after the first line of each entry in the list should be indented one-half inch from the left margin. Author's names are inverted; give last names and initials for all authors of a work unless the work has more than six authors. 
+Single Author Smith, T. J. (2002). Friendship and social development. Current Directions in Psychological Science, 11, 7-10. 
+Two Authors List by author last names and initials. Use the ampersand, not "and." Herroud, D. T. & Petty, R. E. (1994). Hood management. Journal of Personality & Social Psychology, 66, 1034-1048. 
+Three to Six Authors Jones, H., Yang, E., Ellis, G., Mills, D., Casper, R., & Sax, P. (2001). Writing labs. WPA Journal, 44(3), 213-245. 
+More than Seven Authors Miller, F. H., Choi, M. J., Angeli, L. L., Harland, A. A., Stamon, J. A., Thomas, S. T., ... Rubin, L. H. (2009). Web site usability. Technical Communication, 57, 323-335. 
+Organization as Author American Psychological Association. (2003). New directions... 
+Unknown Author Merriam-Webster's collegiate dictionary (10th ed.). (1993). Springfield, MA: Merriam-Webster. 
+Articles in Periodicals Author, A. A., & Author, B. B. (Year). Title of article. Title of Periodical, volume number(issue number), pages. 
+Internet Sources with and without DOI APA now recommends using a Digital Object Identifier (DOI) if available. Brown, D. Toward effective presentations. Journal of Marketing, 41(11/12), 1245-1283. doi:10.1108/03090560710821161 Kenneth, I. A. (2000). A Buddhist response to human rights. Journal of Buddhist Ethics, 8. Retrieved from http://www.cac.psu.edu/jbe/twocont.html 
